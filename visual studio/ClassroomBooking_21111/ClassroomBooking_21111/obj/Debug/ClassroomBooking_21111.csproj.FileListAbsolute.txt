@@ -1,0 +1,14 @@
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\bin\Debug\ClassroomBooking_21111.exe.config
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\bin\Debug\ClassroomBooking_21111.exe
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\bin\Debug\ClassroomBooking_21111.pdb
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.csproj.AssemblyReference.cache
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\App.g.cs
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111_MarkupCompile.cache
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.g.resources
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.Properties.Resources.resources
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.csproj.GenerateResource.cache
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.exe
+S:\2 курс ИСП2111\Миронов Никита 2111\мдк04.01\visual studio\ClassroomBooking_21111\ClassroomBooking_21111\obj\Debug\ClassroomBooking_21111.pdb
